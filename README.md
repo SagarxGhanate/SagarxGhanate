@@ -18,18 +18,17 @@ Currently focused on React frontends, Python backends, and shipping things that 
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/SagarxGhanate/CaliStrength">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SagarxGhanate&repo=CaliStrength&theme=github_dark&hide_border=true&title_color=ec5b13&icon_color=ec5b13" />
-</a>
-<a href="https://github.com/SagarxGhanate/calistrength-backend">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SagarxGhanate&repo=calistrength-backend&theme=github_dark&hide_border=true&title_color=ec5b13&icon_color=ec5b13" />
-</a>
-
-<br clear="both"/>
-
-> 💪 **CaliStrength** — An AI-powered calisthenics training web app with real-time pose estimation, skill progression tracking, and personalized workout generation. Built with React, FastAPI, MySQL, Firebase & MediaPipe.
+> 💪 **CaliStrength**
+> 
+An AI-powered calisthenics training web app with real-time pose estimation, skill progression tracking, and personalized workout generation. Built with React, FastAPI, MySQL, Firebase & MediaPipe.
 >
 > 🔗 **Live:** [cali-strength.vercel.app](https://cali-strength.vercel.app)
+> 
+> 🔗 **Repositories**
+
+  **Frontend** → https://github.com/SagarxGhanate/CaliStrength
+
+  **Backend** → https://github.com/SagarxGhanate/calistrength-backend
 
 ---
 
